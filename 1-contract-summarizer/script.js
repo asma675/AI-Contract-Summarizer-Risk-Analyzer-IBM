@@ -1,3 +1,6 @@
+// IBM Client Engineering-style prototype
+// Focus: solution pattern, business logic, demo clarity
+
 function randomFloat(min, max) {
   return (Math.random() * (max - min) + min).toFixed(2);
 }
